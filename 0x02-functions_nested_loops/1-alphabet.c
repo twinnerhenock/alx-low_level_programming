@@ -1,10 +1,10 @@
 #include "main.h"
 
-void print_alphabet(void)
 /**
- * print_alphabet - prints the alphbets in lower case.
- * Description: ends with a new line.
+ * print_alphabet - Print the "letters" in lower case.
+ * Description: Ends with a new line.
  */
+void print_alphabet(void)
 {
 	char letter;
 
