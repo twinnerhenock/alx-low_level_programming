@@ -1,13 +1,13 @@
+#include "main.h"
+
 /*
  * File: 1-alphabet
  */
 
-#include "main.h"
-
+void print_alphabet(void)
 /* 
  * prints the alphbets in lower case
  */
-void print_alphabet(void)
 {
 	char letter;
 
