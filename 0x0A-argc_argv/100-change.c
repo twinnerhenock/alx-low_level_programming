@@ -1,6 +1,4 @@
-
-  
-/*
+/**
  * File: 100-change.c
  * Auth: Henock
  */
