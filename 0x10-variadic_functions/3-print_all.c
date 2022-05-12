@@ -112,7 +112,7 @@ void print_all(const char * const format, ...)
 		i++;
 	}
 
-	printf('\n');
+	printf("\n");
 
 	va_end(args);
 }
