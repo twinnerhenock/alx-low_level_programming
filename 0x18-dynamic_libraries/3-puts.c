@@ -1,0 +1,15 @@
+/*
+ * File: 3-puts.c
+ * Auth: Henock
+ */
+
+#include "main.h"
+
+/**
+ * _puts - Prints a string to stdout.
+ * @str: The string to be printed.
+ */
+void _puts(char *s)
+{
+	
+}
