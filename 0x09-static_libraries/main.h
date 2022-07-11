@@ -3,9 +3,9 @@
 
 /*
  * File: main.h
- * Auth: Henock
+ * Auth: Henock Yared
  * Desc: Header file containing the prototypes of all functions
- *       included in the static library libholberton.a.
+ *       included in the static library libmy.a.
  */
 
 int _putchar(char c);
